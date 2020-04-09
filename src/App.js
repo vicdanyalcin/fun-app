@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 const Vicdan = () => {
-  return "Hello vicdan";
+  return "Hello Kağan!!";
 };
 
 function App() {
