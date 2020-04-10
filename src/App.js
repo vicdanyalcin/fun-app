@@ -1,31 +1,35 @@
 import React from "react";
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
+import Quiz from "./Quiz";
 
-const Vicdan = () => {
-  return "Hello Kağan!!";
+const Nav = () => {
+  return (
+    <nav className="navbar navbar-dark bg-dark">
+      <a className="navbar-brand" href="#">
+        <h2 className="font-italic">Etymology quiz</h2>
+      </a>
+      <form className="form-inline">
+        <input
+          className="form-control mr-sm-2"
+          type="search"
+          placeholder="Search words..."
+          aria-label="Search"
+        />
+        <button className="btn btn-outline-success my-2 my-sm-0" type="submit">
+          Search
+        </button>
+      </form>
+    </nav>
+  );
 };
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <div>
-          <Vicdan />
-        </div>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Nav />
+      <Quiz />
     </div>
   );
 }
