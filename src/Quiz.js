@@ -27,7 +27,6 @@ var q3 = {
   answer: "The love of Wisdom",
 };
 var questions = [q1, q2, q3];
-// console.log(
 //   q1.checkAnswer("Word, rational thinking, speech, discourse, treaty")
 // );
 
