@@ -40,7 +40,7 @@ const Quiz1 = () => {
   const activeQuestion = questions[index];
 
   const handleAnswer = (answerIndex) => {
-    // console.log("handle answer", answerIndex);
+    console.log("handle answer", answerIndex);
   };
 
   return (

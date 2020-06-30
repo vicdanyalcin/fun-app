@@ -7,7 +7,7 @@ import Quiz from "./Quiz";
 const Nav = () => {
   return (
     <nav className="navbar navbar-dark bg-dark">
-      <a className="navbar-brand" href="#">
+      <a className="navbar-brand" href="./">
         <h2 className="font-italic">Etymology quiz</h2>
       </a>
       <form className="form-inline">
