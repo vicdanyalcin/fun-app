@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.51d24a18.chunk.css",
-    "main.js": "/static/js/main.f6f4efb0.chunk.js",
-    "main.js.map": "/static/js/main.f6f4efb0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6537f79a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6537f79a.js.map",
-    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.b35f2a0e.chunk.js": "/static/js/2.b35f2a0e.chunk.js",
-    "static/js/2.b35f2a0e.chunk.js.map": "/static/js/2.b35f2a0e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.69f8724cbaa5aba139299f76444652b0.js": "/precache-manifest.69f8724cbaa5aba139299f76444652b0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.51d24a18.chunk.css.map": "/static/css/main.51d24a18.chunk.css.map",
-    "static/js/2.b35f2a0e.chunk.js.LICENSE.txt": "/static/js/2.b35f2a0e.chunk.js.LICENSE.txt"
+    "main.css": "/fun-app/static/css/main.51d24a18.chunk.css",
+    "main.js": "/fun-app/static/js/main.99a498bd.chunk.js",
+    "main.js.map": "/fun-app/static/js/main.99a498bd.chunk.js.map",
+    "runtime-main.js": "/fun-app/static/js/runtime-main.e2c4109a.js",
+    "runtime-main.js.map": "/fun-app/static/js/runtime-main.e2c4109a.js.map",
+    "static/css/2.de424728.chunk.css": "/fun-app/static/css/2.de424728.chunk.css",
+    "static/js/2.b35f2a0e.chunk.js": "/fun-app/static/js/2.b35f2a0e.chunk.js",
+    "static/js/2.b35f2a0e.chunk.js.map": "/fun-app/static/js/2.b35f2a0e.chunk.js.map",
+    "index.html": "/fun-app/index.html",
+    "precache-manifest.df383854ad87f8c8e29727b9e384efb6.js": "/fun-app/precache-manifest.df383854ad87f8c8e29727b9e384efb6.js",
+    "service-worker.js": "/fun-app/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/fun-app/static/css/2.de424728.chunk.css.map",
+    "static/css/main.51d24a18.chunk.css.map": "/fun-app/static/css/main.51d24a18.chunk.css.map",
+    "static/js/2.b35f2a0e.chunk.js.LICENSE.txt": "/fun-app/static/js/2.b35f2a0e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6537f79a.js",
+    "static/js/runtime-main.e2c4109a.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.b35f2a0e.chunk.js",
     "static/css/main.51d24a18.chunk.css",
-    "static/js/main.f6f4efb0.chunk.js"
+    "static/js/main.99a498bd.chunk.js"
   ]
 }
