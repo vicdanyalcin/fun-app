@@ -61,7 +61,10 @@ const Quiz1 = () => {
                       className="btn btn-primary"
                       onClick={() => setIndex(i)}
                     >
-                      <span>{c}</span>
+                      <span>
+                        {c}
+                        {handleAnswer}
+                      </span>
                     </button>
                   );
                 })}
@@ -70,7 +73,7 @@ const Quiz1 = () => {
             <div
               id="progress"
               className="card-footer"
-              onClick={setRightAnswerCount}
+              onClick={() => setRightAnswerCount(rightAnswerCount)}
             ></div>
           </div>
         </div>
